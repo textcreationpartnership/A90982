@@ -1,0 +1,401 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heres Jack in a box, that will coniure the fox. Or, A new list of the new fashions now used in London. Come who buyes Jaek [sic] in a box, that will cunjure the fox, and move them to delight; it may serve as I may say, for to passe the time away, in the long winter night, to sit by a good fire, when the season doth require, your body to keepe warme: this booke of merriment, will yield you sweet content, and doe you no harme. This new merry booke was newly jnvented, but never before this time jmprinted. written by Laurence Price, in the moneth of October. 1656. Entered according to order.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90982</idno>
+            <idno type="STC">Wing P3368</idno>
+            <idno type="STC">Thomason E1640_3</idno>
+            <idno type="STC">ESTC R209065</idno>
+            <idno type="EEBO-CITATION">99867970</idno>
+            <idno type="PROQUEST">99867970</idno>
+            <idno type="VID">170194</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90982)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170194)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 206:E1640[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heres Jack in a box, that will coniure the fox. Or, A new list of the new fashions now used in London. Come who buyes Jaek [sic] in a box, that will cunjure the fox, and move them to delight; it may serve as I may say, for to passe the time away, in the long winter night, to sit by a good fire, when the season doth require, your body to keepe warme: this booke of merriment, will yield you sweet content, and doe you no harme. This new merry booke was newly jnvented, but never before this time jmprinted. written by Laurence Price, in the moneth of October. 1656. Entered according to order.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>16 p. : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Vere at the Angel without Newgate.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A1 is an additional woodcut title page, reading "Here's Jack in a box, that will coniure the fox."; text begins on A3v.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September 13" (on A1 title page); the 7 in the imprint has been crossed out and replaced with a "6" (A2 title page).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fashion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170194:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>Here's Jack in a Box, That will Coniure the Fox.</p>
+            <p>
+               <figure>
+                  <head>Here be your new Faſhions Miſtris.</head>
+               </figure>
+            </p>
+            <lg>
+               <l>HEre's black B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gs, Ribons, Copper Laces.</l>
+               <l>Paintings, and beauty ſpots for faces.</l>
+               <l>Masques, and Fans you here may have</l>
+               <l>Taffity Gownes and Sca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fes moſt brave</l>
+               <l>Curled haire, and criſped Locks,</l>
+               <l>Aporns white, and Holland Smocks:</l>
+               <l>All ſorts of powders here are ſold</l>
+               <l>To pleaſe all People young and old</l>
+               <l>Then come my Cuſtomers touch and tey,</l>
+               <l>Be hold and ſee, draw forth and buy</l>
+            </lg>
+            <pb facs="tcp:170194:2"/>
+            <!-- PDF PAGE 2 -->
+            <p>
+               <figure>
+                  <head>Here be your new Faſhions Miſtris.</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:170194:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <p>Here's Jack in a Box, That will Coniure the Fox.</p>
+            <p>OR, A new Liſt of the new Faſhions now uſed in <hi>London.</hi>
+            </p>
+            <lg>
+               <l>Come who buyes Jack in a Box,</l>
+               <l>That will Cunjure the Fox,</l>
+               <l>And move them to delight;</l>
+               <l>It may ſerve as I may ſay,</l>
+               <l>For to paſſe the time away,</l>
+               <l>In the long Winter nights,</l>
+               <l>To ſit by a good fire,</l>
+               <l>When the Seaſon doth require,</l>
+               <l>Your Body to keepe warme:</l>
+               <l>This Booke of merriment,</l>
+               <l>Will yield you ſweet content,</l>
+               <l>And doe you no harme.</l>
+            </lg>
+            <p>This new merry Booke was newly Jnvented, But never before this time Jmprinted.</p>
+            <p>Written by <hi>Laurence Price,</hi> in the Moneth of <hi>October.</hi> 1656.</p>
+            <p>Entered according to Order.</p>
+            <p>London, Printed for <hi>Tho. Vere</hi> at the <hi>Angel</hi> without <hi>Newgate.</hi> 1657.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:170194:3"/>
+            <!-- PDF PAGE 3 -->
+            <p>
+               <figure/>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170194:3"/>
+            <!-- PDF PAGE 3 -->
+            <head>Heres <hi>Jack in a Box</hi> That will coniure the Fox, Come along my new merry diſpo<g ref="char:EOLhyphen"/>ſed Cuſtomers, here are all ſorts of new faſhioned wares to be ſold, the like was never ſeen in <hi>England</hi> be<g ref="char:EOLunhyphen"/>fore this preſent time.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F there be any young upſtart Gallant, that's newly dropt out of the Beggers baſket; if he have either got Money or Credit, I have a <hi>Jack-in-a-box</hi> that will fit him with a Beaver hat, a Golden band, a great plumm of Fea<g ref="char:EOLhyphen"/>thers, Dublet and Hoſe of y<hi rend="sup">e</hi> new faſhi<g ref="char:EOLhyphen"/>on, with a hundred and fifty knots of Ribons down y<hi rend="sup">e</hi> Codpiece; with fancies of ſeverall colours ſo high as the pocket holes, ſet all round the Bréeches? he ſhall alſo have his choice of Coats ſuitable to the ſame, laid downe with Gold lace, Sil<g ref="char:EOLhyphen"/>ver lace, or Cooper lace, according as his Money will hold out to pay for? and being thus trim'd up in his Gallantry, he will be taken to be for no leſs then he is, as he goeth along the ſtréets.</p>
+            <pb n="6" facs="tcp:170194:4"/>
+            <!-- PDF PAGE 4 -->
+            <lg>
+               <l>
+                  <hi>Prouder then a Peacock along he wil paſs</hi>
+               </l>
+               <l>
+                  <hi>Finer then an Ape and wiſer then an Aſſe</hi>
+               </l>
+            </lg>
+            <p>IN the next place if there be any Conn<g ref="char:EOLhyphen"/>trey Royſter, whether he be Farmer, Grazier, Yeoman; or Gentleman: that hath got a great deale of Money, and but little Wit? If he be willing to be rid of that, he ſhall have my <hi>Jack-in-a-box</hi> that will afford all ſorts of new Faſhions whatſoever be would have: if he deſires to have a gay coat all with Gold buttons, and a Suit agréeable to the ſame; here it is to be had: if he will have his demy-Caſter, his Golden Belt, his Silver Ra<g ref="char:EOLhyphen"/>pier, with new faſhion Boots, and im<g ref="char:EOLhyphen"/>broidered Spurs, I am ready to furniſh him; if he will have Silke ſtocking with white Boot-hoſe-tops, hanging down<g ref="char:EOLhyphen"/>wards towards his féet, as if the taile of his Shirt hang'd out at the knées of his Bréeches, my <hi>Jack</hi> can fit him with that alſo which is known to be the neweſt Faſhion, of that is now in uſe.</p>
+            <lg>
+               <l>
+                  <hi>But at the laſt, what ever doth befall,</hi>
+               </l>
+               <l>
+                  <hi>The Countrey bumpkin he muſt pay for al.</hi>
+               </l>
+            </lg>
+            <p>COme who buys my new Faſhion'd Periwigs, if there be any manner of ſingle man, Widdower, or Batchelor
+<pb n="7" facs="tcp:170194:4"/>
+               <!-- PDF PAGE 4 -->that thinks his owne naturall Haire not good enough for him, here is <hi>Jack in a box</hi> will fit him to a haire, with all ſorts of Periwigs, and all ſorts of colours and faſhions, both long Haire, or ſhort Haire, Flaxen haire, or yellow haire, black, blew, red, tawny, browne, or Abraham colour, that's halfe Nits, and halfe Lice; or if any bauld pated fellow amongſt you that have loſt his hair off from his head, with going too often into Smock-ally, I have a Periwig for him of goodly long Haire, that will hang downe and cover all his ſhoulders, and that may ſerve to cover all his Knavery: or if any younger Brothers that deſires to have their naturall haire that growes upon their heads Dyed of another colour? here are all ſorts of pow<g ref="char:EOLhyphen"/>ders; of ſeverall clours, and Faſhions, that will doe the trick gallantly,</p>
+            <lg>
+               <l>
+                  <hi>Thoſe bouncing Bil-bow-blades in all their bravery</hi>
+               </l>
+               <l>
+                  <hi>Muſt each one have a trick to hide his knavery.</hi>
+               </l>
+            </lg>
+            <p>COme who buys my new faſhion pow<g ref="char:EOLhyphen"/>ders, if there be any boon companion, whoſe wits runs a wooll-grthering, that faine would be taken to be Gentlemen,
+<pb n="8" facs="tcp:170194:5"/>
+               <!-- PDF PAGE 5 -->before there time come, my <hi>Jack in a box</hi> have a new faſhion'd powder that was made of ſeverall compounds, namely the Eyes of a Cockatrice, the flying of a Swallw, the blood of a Batt, and the braines of a Woodcock; which powder being ſtrowed, upon the Haire of many young Men, it will make them gray before they'r good, and proud beford they'r honeſt Beſide all this: this ſort of powder is of ſuch an excellent Vertue that if your Cloaks and Cloaths be black it wil make them ſéeme of a changeable colour.</p>
+            <lg>
+               <l>
+                  <hi>Where is the foole that will refuſe to buy,</hi>
+               </l>
+               <l>
+                  <hi>Such priming powder when he comes <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t nigh</hi>
+               </l>
+               <l>
+                  <hi>Thus having pleaſ'd the Men, I mean to doe</hi>
+               </l>
+               <l>
+                  <hi>My beſt good will and pleaſe the Women to</hi>
+               </l>
+               <l>
+                  <hi>Such rare new faſhions I have here in ſtore,</hi>
+               </l>
+               <l>
+                  <hi>To fit all ſorts of Women, rcih or poore</hi>
+               </l>
+               <l>
+                  <hi>The like whereof was never known before,</hi>
+               </l>
+               <l>
+                  <hi>Nor when the world is done, wil be no more.</hi>
+               </l>
+               <l>
+                  <hi>Therefore give care, and hearken to me well</hi>
+               </l>
+               <l>
+                  <hi>And you ſhal know what wares I have to ſel.</hi>
+               </l>
+            </lg>
+            <p>IF there be any ſort of ſuppoſed ſhe Creature that would fain be accounted for a Gentle woman, or a Lady at y<hi rend="sup">e</hi> leaſt, my <hi>Jack in a box</hi> will afford them ſuch
+<pb n="9" facs="tcp:170194:5"/>
+               <!-- PDF PAGE 5 -->gallant choice of new faſhion Goods; or Apparrell, which will make them ſéeme to be like that they never have béen, nor will be.</p>
+            <lg>
+               <l>
+                  <hi>Come along Gentlewomen</hi>
+               </l>
+               <l>
+                  <hi>buy my new faſhion ware</hi>
+               </l>
+               <l>
+                  <hi>Jle fell good pen worths</hi>
+               </l>
+               <l>
+                  <hi>ſo ſure as you goe there.</hi>
+               </l>
+            </lg>
+            <p>IF there be any foule Faces, that are not willing to be ſéen of modeſt and ci<g ref="char:EOLhyphen"/>vill People in the day time, my <hi>Jack in a box</hi> will fit them with black Bags, <hi>French</hi> maſques, <hi>Jtalian</hi> Scarfes, and <hi>Spaniſh</hi> Frontlets, ſo that there will be never a good bit to be ſéen of their Faces, for they ſhall be covered with a black Vaile from the head to the lower parts of their Body? and ſo ſhe may be taken for ſome <hi>Bloomesbury</hi> Lady, or <hi>Turnmill<g ref="char:EOLhyphen"/>ſtreet</hi> Gentlewoman,</p>
+            <lg>
+               <l>
+                  <hi>Yet more ſtrange faſhions here is to be ſold,</hi>
+               </l>
+               <l>
+                  <hi>That will pleaſe Women, be they young or old</hi>
+               </l>
+            </lg>
+            <p>IF there be any wanton Wag-tailes, that can ſpeake <hi>French,</hi> although they were never out of <hi>England,</hi> which have béen thrée times bathed in <hi>Cornelius</hi> his Lub, and five times under the Surge<g ref="char:EOLhyphen"/>ons
+<pb n="10" facs="tcp:170194:6"/>
+               <!-- PDF PAGE 6 -->hands to be cured of the <hi>Morbur Gal<g ref="char:EOLhyphen"/>licus,</hi> my <hi>Jack in a box</hi> will afford her if ſhe have money to buy and pay for a new Silken gowne of the new Faſhion, with Petticoats laced with Silver and Gold lace moſt gallantly, with ſumptuous trim<g ref="char:EOLhyphen"/>ming, for before and behind, with coſtly rich Gorgets; and Dreſſings, the like whereof are not to be ſéen, at the <hi>Exchang</hi> except it be at ſome times after the Day<g ref="char:EOLhyphen"/>light is ſhut in.</p>
+            <lg>
+               <l>
+                  <hi>And then the wanton <hi>Wagtails</hi> by owlight,</hi>
+               </l>
+               <l>
+                  <hi>Will pick up Dicks and Cullyes in the night</hi>
+               </l>
+            </lg>
+            <p>COme ſée what yea lack or buby Gen<g ref="char:EOLhyphen"/>tlewomen, here are choice of other new faſhions, if there be any of you that would be ſéen to be more then Women, my <hi>Jack in a box</hi> will fit you in that qua<g ref="char:EOLhyphen"/>lity to chuſe: For here is brave painting for your faces, which came from beyond <hi>Jamaica,</hi> and <hi>Ethiopia,</hi> all <hi>Venis</hi> cannot af<g ref="char:EOLhyphen"/>ford the like, and how it muſt be uſed it is as followeth.</p>
+            <p>You muſt for three nights one after a<g ref="char:EOLhyphen"/>nother, anoint your eyes with faſting ſpit<g ref="char:EOLhyphen"/>tle when you goe to Bed, and every morn<g ref="char:EOLhyphen"/>ing when you riſe you muſt waſh your
+<pb n="11" facs="tcp:170194:6"/>
+               <!-- PDF PAGE 6 -->face in Puppy dog water; and then lay on the painting; &amp; laſt of all put black Beau<g ref="char:EOLhyphen"/>ty ſpots upon your fore-heads, your chéeks and your Chin, and afterwards being mounted in a Coach, you will be taken to be as Beautifull as <hi>Cleopatria,</hi> as light as <hi>Diana.</hi> and as honeſt as <hi>Venis.</hi>
+            </p>
+            <lg>
+               <l>
+                  <hi>When ſuch light Creatures, are in Coaches carried,</hi>
+               </l>
+               <l>
+                  <hi>Woe be to them to whomn they muſt be married.</hi>
+               </l>
+            </lg>
+            <p>BVt ſtay a while my comely Cuſto<g ref="char:EOLhyphen"/>mers, my <hi>Jack in a box</hi> have another rare commodity in ſtore for you, that was never ſpoken of yet.</p>
+            <p>Here are gallant fine white Holland Smocks, and Aporns white, whoſoever weares of thoſe Aprons, will be taken for ſome looſe bodyed Gentlewoman, ſo ſhe can but gather up her Coats and A<g ref="char:EOLhyphen"/>porn as high as her knées that folkes may ſée her white ſmock, as ſhe goes a<g ref="char:EOLhyphen"/>long the ſtréet? this indeed is an old faſhi<g ref="char:EOLhyphen"/>on newly taken up; it was hatcht in <hi>Na<g ref="char:EOLhyphen"/>ples,</hi> brought foorth at <hi>Rome,</hi> taken up by a <hi>Nun,</hi> and made uſe of by a <hi>Fryer:</hi> and now is come to be a common Faſhion worn by ſome of them that uſe the com<g ref="char:EOLhyphen"/>mon
+<pb n="12" facs="tcp:170194:7"/>
+               <!-- PDF PAGE 7 -->Trade here in <hi>England.</hi>
+            </p>
+            <lg>
+               <l>
+                  <hi>A Womans inward Vertue you may know,</hi>
+               </l>
+               <l>
+                  <hi>By her Apparell, and her gallant ſhew.</hi>
+               </l>
+            </lg>
+            <p>THe next brave buſineſs that I have to preſent unto you, is choice and variety of ſeveral rare compounded pow<g ref="char:EOLhyphen"/>ders, which my <hi>Jack in a box</hi> call by ſix ſeverall names, and is to be taken on ſix ſeverall dayes in the wéeke, the firſt is cal'd a working powder, which is to be taken a quantity on Munday morning be<g ref="char:EOLhyphen"/>times; and it is to be taken by all manner of Men that are counted good Fellowes, as Weavers, Taylors, Glovers, Shooma<g ref="char:EOLhyphen"/>kers, Black-ſmiths, Carpenters; Felt<g ref="char:EOLhyphen"/>makers, Coopers, Coblers, Broom-men, and all other Tradeſ-men whatſoever: which if they faile of taking a reaſonable portion of this working powder on the Munday morning, and ſo fall a drinking, 'tis ten to one but they looſe the greateſt part of their wéeks worke, and ſo want money on Saturday to buy meat for their dinners on Sunday.</p>
+            <lg>
+               <l>
+                  <hi>Good fellowes all take heed of Jack in box</hi>
+               </l>
+               <l>
+                  <hi>For he will cunjure them that catch the Fox</hi>
+               </l>
+            </lg>
+            <pb n="13" facs="tcp:170194:7"/>
+            <!-- PDF PAGE 7 -->
+            <p>THe next powder that I preſent to you is called playing-powder, and that is to be taken one Tuesday; but this powder yéelds more proffit to Ale-wives then it will to good fellowes, for if a good fellow take a portion of this fore-named playing powder on Tuesday morning, though it be but as big as a Bées knée? and afterwards drinke hard upon it, it is a thrée fold wonder if he doe not pawn or fell his Hat; his Coat, or his Shirt, before night for money to pay the Ale-houſe ſcores.</p>
+            <lg>
+               <l>
+                  <hi>Sometimes good fellowes worke, and take great paines,</hi>
+               </l>
+               <l>
+                  <hi>And ſometimes Ale-wives eat up all the gaines.</hi>
+               </l>
+            </lg>
+            <p>COme here's another powder alſo for Wednesday, and that is cal'd good Huswives powder, this powder if a Wo<g ref="char:EOLhyphen"/>man take a good quantity of it in y<hi rend="sup">e</hi> morn<g ref="char:EOLhyphen"/>ing, it may chance to ſave her bonee from being broke ere night? for ſuppoſe that her Husband have béen in rebellion two dayes together, and come home drunke on the third day, Vaporing, Swaggering, Swearing, and Dominéering, and ready to fight at every word, the Woman ha<g ref="char:EOLhyphen"/>ving
+<pb n="14" facs="tcp:170194:8"/>
+               <!-- PDF PAGE 8 -->taken a dram of this good Huswives powder, ſhe will with ſuch diſcretion and civillity order and temper her words, that her Husband ſhall have no power at all to doe her any harme? and perhaps ſhe may perſwade him to be a good Hus<g ref="char:EOLhyphen"/>band all the wéeke after.</p>
+            <lg>
+               <l>
+                  <hi>Good words did never put any one to coſt</hi>
+               </l>
+               <l>
+                  <hi>In giving good words there's nothing loſt.</hi>
+               </l>
+            </lg>
+            <p>THe powder for Thursday is cal'd Love powder, and that chiefly be<g ref="char:EOLhyphen"/>longs for Maids and Widdowes to take; if any Maid what ever ſhe be, ſhall take a portion of this Love powder, modeſtly, temperately, and honeſtly, it may be thê better for her all the dayes of her life? and thereby ſhe may gaine and kéepe the Love and good will of her ſwéet-heart, and at laſt be made a happy Wife? but ſhe that takes of this Love powder too haſti<g ref="char:EOLhyphen"/>ly &amp; gréedily, may chance to ſurfeit there<g ref="char:EOLhyphen"/>with before ſhe be made a marryed Wife, as many have done in former times, and if thereby ſhe ſhould chance to have a ſweelling in her Belly, ſhe may at the laſt be forſt to ſing the old tone to her young Son.</p>
+            <pb n="15" facs="tcp:170194:8"/>
+            <!-- PDF PAGE 8 -->
+            <lg>
+               <l>
+                  <hi>Balloo my boy, lie ſtill, lie ſtill and ſleepe,</hi>
+               </l>
+               <l>
+                  <hi>Thy Father's gond from me, which makes me weepe</hi>
+               </l>
+            </lg>
+            <p>THe powder for Friday is called doat<g ref="char:EOLhyphen"/>ing powder; if a luſty young Batch<g ref="char:EOLhyphen"/>lor be he never ſo poore, take a valiable quantity of the ſaid doating powder, and come into the houſe where a very rich Widdow owelleth: though before he came to her? ſhe made a vow never to marry with any Man whilſt ſhe lived, yet if he beſtirr himſelfe, and ſend for two or thrée cups of nappy Ale, and then grate a mer<g ref="char:EOLhyphen"/>ry Nutmeg, and mix with it ſome of the doating powder, and then drinke a loving Health to his Widdow, and withall give her the better part of a thouſand honey ſwéet Kiſſes? Oh how it will make the Widdow give downe her milke, and alſo turne up the white of the Eye, amongſt all the reſt he ſure that you forget not the Proverb.</p>
+            <lg>
+               <l>
+                  <hi>How he that will a faire Maid wooe,</hi>
+               </l>
+               <l>
+                  <hi>muſt ſpeake fine words and ſtatter,</hi>
+               </l>
+               <l>
+                  <hi>And he that will a rich Widdow wooe,</hi>
+               </l>
+               <l>
+                  <hi>muſt kiſs when he comes at her,</hi>
+               </l>
+            </lg>
+            <p>THe laſt powder of all is Satturdayes powder, &amp; that is called merry pow<g ref="char:EOLhyphen"/>der
+<pb n="16" facs="tcp:170194:9"/>
+               <!-- PDF PAGE 9 -->it ſavors; much like unto the Monday powder, for they that have béen good Hus<g ref="char:EOLhyphen"/>bands and followed their buſineſſe cloſe<g ref="char:EOLhyphen"/>ly all the wéeke, may on Satturday at night ſend for a pot or two of the beſt ſoft Ale, or Bleſſed lull, and ſpice it well with a parcell of the merry powder, and ſo they and their Friends, their Wives and their Children, may rejoyce and be merry altogether in good ſort, for doubt<g ref="char:EOLhyphen"/>lèſs he that followed labour all the wéeke will be ſure to have money to ſerve his néed on Silver Satturday.</p>
+            <lg>
+               <l>
+                  <hi>This merry powder's known to be beſt,</hi>
+               </l>
+               <l>
+                  <hi>And far excelleth any of the reſt.</hi>
+               </l>
+               <l>
+                  <hi>And thus my noble Friends for your con<g ref="char:EOLhyphen"/>tent</hi>
+               </l>
+               <l>
+                  <hi>My merry <hi>Jack in box</hi> I here preſent,</hi>
+               </l>
+               <l>
+                  <hi>In hope that you which now are ſtanders nigh,</hi>
+               </l>
+               <l>
+                  <hi>Will ſtraight draw foorth your money for to buy</hi>
+               </l>
+            </lg>
+            <p>Come along my honeſt Cuſtomers buy my new merry Books; pence a piece in <hi>London,</hi> and two pence a piece in the Countrey.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
